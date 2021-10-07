@@ -391,5 +391,14 @@ let data = [
     image: "",
     tags: ["Flutter", "Dart", "App Development", "Cross Platform Development"],
   },
+  {
+    name:"Learn Recoil",
+    instructor: "Jacques Blom",
+    url: "https://learnrecoil.com/",
+    description:
+      "Free, comprehensive Recoil course. Recoil is an incredibly powerful state management tool that you can use to build performant, complex React apps.",
+    image: "",
+    tags: ["Web Development", "ReactJS", "Recoil", "State management"],
+  }
   
 ];
